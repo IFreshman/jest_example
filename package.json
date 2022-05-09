@@ -1,0 +1,26 @@
+{
+  "name": "edt-frontend-test-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "ng": "ng",
+    "test": "jest --watchAll --coverage"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jasmine": "3.5.11",
+    "@types/jest": "26.0.3",
+    "@types/node": "14.0.14",
+    "babel-jest": "26.1.0",
+    "jasmine-core": "3.5.0",
+    "jasmine-spec-reporter": "5.0.2",
+    "jest": "26.1.0",
+    "ts-jest": "26.1.1",
+    "typescript": "3.9.5"
+  },
+  "engines": {
+      "node": ">=12.18.1",
+      "npm": ">=6.14.5"
+  },
+  "engineStrict": true
+}
